@@ -8,6 +8,8 @@ public class Hola {
 		int resultado = a + b;
 		
 		System.out.println("La suma de " + a + " + " + b + " = " + resultado);
+		
+		System.out.println("Clase modificada por Belén");
 
 	}//fin main
 
